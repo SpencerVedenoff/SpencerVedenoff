@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpencerVedenoff
-- 👀 I currently work as a SysAdmin and I'm learning to code for my CompSCI degree -- Expected graduation DEC2024
-- 🌱 I’m currently learning Python, C++ and SQL. With a focus on Python scripting and Automation.
+- 👀 I currently work as an App Engineer and I'm a CompSci student at WGU with an expected graduation of 2024
+- 🌱 I’m currently working with Python, C++, Java and SQL. With a focus on Python scripting and Automation.
 
 - I have shared several small repositories of mine, most of my big projects are currently private until completion
 
