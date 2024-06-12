@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SpencerVedenoff
-- 👀 I currently work as an Application Engineer and I'm a CompSci student at WGU with an expected graduation of 2024
-- 🌱 I’m currently working with Python, Java, C++ and SQL. With a focus on Python scripting and Automation.
+- 👀 I'm a Full Stack DEV with a background in System Administration and IT Project Management
+- 🌱 Currently using Python, C#, and SQL. With a focus on Python scripting and Automation.
 - Please reach out if you have any questions!
